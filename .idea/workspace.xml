@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbbff019-82a3-40c7-96f0-e3ffe19d57f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INSTRUCTION TO RUN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../khalid portfolio.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Context.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Card/Card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Card/Card.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Contact/Contact.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Contact/Contact.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Experience/Experience.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Experience/Experience.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/FloatingDiv/FloatingDiv.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/FloatingDiv/FloatingDiv.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Footer/Footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Footer/Footer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Intro/Intro.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Intro/Intro.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Navbar/Navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Navbar/Navbar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Portfolio/Portfolio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Portfolio/Portfolio.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Services/Khalid Hussain - Web Developer - Resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Services/Khalid Hussain - resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Services/Services.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Services/Services.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Testimonials/Testimonial.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Testimonials/Testimonial.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Toggle/Toggle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Toggle/Toggle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Typewriteskill/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Typewriteskill/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Works/Works.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Works/Works.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/content_option.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fonts/Gumela Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/Facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/Shopify.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/Upwork.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/Vector1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/Vector2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/amazon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/amazon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/artifact.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/boy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/by.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/crown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/ecommerce.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/ecommerce1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/fiverr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/github2233.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/glassesimoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/heartemoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/hoc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/hoc1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/humble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/instagram11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/khalid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/linkdn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/musicapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/musicapp1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/profile1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/profile2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/profile3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/profile4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/profile5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/profile6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/purpleblur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/sidebar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/sidebar1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/thumbup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/wave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/wave1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QL5oX3jOWZlA0syk49oOsk4rTL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbbff019-82a3-40c7-96f0-e3ffe19d57f8" name="Default Changelist" comment="" />
+      <created>1685120288417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685120288417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
